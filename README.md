@@ -1,4 +1,4 @@
-### Hi there, I'm Sarun Nuntaviriyakul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Sarun Nuntaviriyakul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 <!-- Top Language Dashboard -->
 <a href="https://github.com/guyzsarun">
